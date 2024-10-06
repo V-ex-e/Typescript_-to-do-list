@@ -19,4 +19,5 @@ To get a local copy up and running, follow these simple steps:
 
 AUTTOMATE THE SCRIPT
 
-![image](https://github.com/user-attachments/assets/bd09576c-11fe-4e84-97ee-df6a231965b2)
+
+![description](https://github.com/user-attachments/assets/0c58e471-6b92-42c7-a0b1-55b0b3aa89db)
